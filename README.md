@@ -3,7 +3,7 @@
   <p><strong>Gen AI Developer | Researcher</strong></p>
 </div>
 
-Welcome to my GitHub profile! I am an undergraduate student (B.Tech in Computer Science) in my pre-final year, actively seeking Research Internships or AI Engineering Internships. I am a passionate developer and researcher focused on Artificial Intelligence, specifically Computer Vision, Machine Learning Optimization, and Trustworthy AI.
+Welcome to my GitHub profile! I am an undergraduate student (B.Tech in Computer Science and Business Systems) in my pre-final year, actively seeking Research Internships or AI Engineering Internships. I am a passionate developer and researcher focused on Artificial Intelligence, specifically Computer Vision, Machine Learning Optimization, and Trustworthy AI.
 
 ## 🔬 Research Projects & Papers
 
