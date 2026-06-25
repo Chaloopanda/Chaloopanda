@@ -17,7 +17,12 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher focused 
 - **Domain**: Algorithmic Fairness, Quantum-Inspired ML, Ethical AI
 - **Highlights**: A novel modular architecture (Scan-Find-Rectify) integrating Semantic Feature Extraction, Retrieval-Augmented Fairness (RAF), and Quantum-Inspired Tensor Train (TT) decomposition. Achieves near-zero demographic disparity and high utility on tabular datasets using only 674 trainable parameters, ideal for Edge-AI governance.
 
-## 🚀 Featured Software Projects
+## 🚀 Featured Projects
+
+### 👟 [Arétier (ASBOS)](https://github.com/Chaloopanda/Aretier)
+*Autonomous Sneaker Brand Operating System*
+- **Tech**: Python, LangGraph, Streamlit, Gemma 3, ChromaDB, CLIP
+- **Highlights**: Built a stateful multi-agent system utilizing a fan-out topology to autonomously operate a virtual sneaker brand. Features an LLM-powered adversarial critic, multimodal generation (Imagen 3), and RAG-powered decision making to evaluate designs and coordinate product drops.
 
 ### 🎙️ [Transcript Maker](https://github.com/Chaloopanda/transcrpit_maker)
 A blazing-fast, local-first web application for AI-powered video transcription. 
@@ -32,9 +37,9 @@ An automated scraping utility designed to extract and compile AI-related profess
 ## 💻 Tech Stack & Skills
 
 - **Languages**: Python, JavaScript, HTML/CSS, LaTeX
-- **Frameworks**: Flask, FastAPI, TensorFlow/Keras, PyTorch, Pandas
-- **AI/ML Domains**: Generative AI, Computer Vision, Emotion Recognition (FER), Local ML Inference, Algorithmic Fairness
-- **Tools**: Git, FFmpeg, CUDA / GPU Computing
+- **Frameworks**: LangGraph, Flask, FastAPI, TensorFlow/Keras, PyTorch
+- **AI/ML Domains**: Generative AI, Multi-Agent Systems, Computer Vision, Local ML Inference, Algorithmic Fairness
+- **Tools**: Git, ChromaDB, FFmpeg, CUDA / GPU Computing
 
 ## 📫 Let's Connect!
 
