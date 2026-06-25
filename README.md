@@ -3,7 +3,7 @@
   <p><strong>Gen AI Developer | Researcher</strong></p>
 </div>
 
-Welcome to my GitHub profile! I'm a passionate developer and researcher focused on building high-performance applications, innovative ML models, and robust end-to-end systems. My work spans across local AI inference, generative AI, and cutting-edge machine learning research.
+Welcome to my GitHub profile! I am an undergraduate student (B.Tech in Computer Science) in my pre-final year, actively seeking Research Internships or AI Engineering Internships. I am a passionate developer and researcher focused on Artificial Intelligence, specifically Computer Vision, Machine Learning Optimization, and Trustworthy AI.
 
 ## 🔬 Research Projects & Papers
 
@@ -29,10 +29,10 @@ A blazing-fast, local-first web application for AI-powered video transcription.
 - **Tech**: Python, Flask, `faster-whisper`, `CTranslate2`, `ffmpeg-python`, CUDA
 - **Highlights**: Features automatic hardware detection for GPU (CUDA) acceleration with CPU fallback, thread-safe concurrent job queueing, and a drag-and-drop UI to generate SRT/VTT subtitles entirely locally, prioritizing privacy and speed.
 
-### 🤖 Corporate AI Lead Scraper
-An automated scraping utility designed to extract and compile AI-related professional profiles.
-- **Tech**: Python, `requests`, `BeautifulSoup4`, `pandas`
-- **Highlights**: Implements user-agent rotation and robust keyword parsing to identify profiles associated with advanced AI topics (Vision Transformers, GANs, Trustworthy AI) and leading corporate labs.
+### 🤖 [Corporate AI Lead Scraper (Niche Discovery Engine)](https://github.com/Chaloopanda/Corporate-AI-Lead-Scraper)
+A dynamic web application and scraping utility designed to automatically hunt down niche AI startup and research internship opportunities.
+- **Tech**: Python, Flask, `duckduckgo-search`, `BeautifulSoup4`, `pandas`
+- **Highlights**: Implements real-time web discovery via DuckDuckGo and Server-Sent Events (SSE) to uncover remote-friendly startups. Features robust semantic filtering to score profiles based on advanced AI topics (Vision Transformers, GANs, Tensor Networks) and internship availability, complete with a glassmorphic frontend and Markdown export.
 
 ## 💻 Tech Stack & Skills
 
