@@ -1,16 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Sohan (Chaloopanda)! 👋</h1>
-  <p><strong>Full-Stack Developer & AI/ML Researcher</strong></p>
+  <p><strong>Full-Stack & Gen AI Developer | Researcher</strong></p>
 </div>
 
-Welcome to my GitHub profile! I'm a passionate developer and researcher focused on building high-performance applications, innovative ML models, and robust end-to-end systems. My work spans across full-stack development, local AI inference, and cutting-edge machine learning research.
+Welcome to my GitHub profile! I'm a passionate developer and researcher focused on building high-performance applications, innovative ML models, and robust end-to-end systems. My work spans across full-stack development, local AI inference, generative AI, and cutting-edge machine learning research.
 
 ## 🔬 Research Projects & Papers
-
-### 🌫️ GhostFGCR-Net
-*GhostFGCR-Net: Frequency-Guided Channel Recalibration for Ultra-Lightweight Image Dehazing*
-- **Domain**: Real-Time Edge Vision (UAVs, Autonomous Systems), Computer Vision
-- **Highlights**: Proposed an ultra-lightweight architecture (4.2M parameters) introducing a novel Frequency-Guided Channel Recalibration (FGCR) module. Uses Fast Fourier Transform (FFT) descriptors to replace destructive spatial pooling, prioritizing high-frequency structural details in image dehazing.
 
 ### 🎭 Voice2Sentimental
 *Unified Audio & Text Analysis Platform (Research Paper)*
@@ -21,11 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher focused 
 *Demographic Fairness Aware Machine Learning*
 - **Domain**: Algorithmic Fairness, Quantum-Inspired ML, Ethical AI
 - **Highlights**: A novel modular architecture (Scan-Find-Rectify) integrating Semantic Feature Extraction, Retrieval-Augmented Fairness (RAF), and Quantum-Inspired Tensor Train (TT) decomposition. Achieves near-zero demographic disparity and high utility on tabular datasets using only 674 trainable parameters, ideal for Edge-AI governance.
-
-### 🧬 Q-GreenFER (EVO-Adapt)
-*Quantum-Inspired Carbon-Aware Parameter-Efficient Facial Expression Recognition under Cross-Dataset Shift*
-- **Domain**: Dynamic Facial Expression Recognition (DFER), Green AI, Parameter-Efficient Fine-Tuning (PEFT)
-- **Highlights**: Research focused on creating parameter-efficient, cross-dataset robust models for facial expression recognition. Explores quantum-inspired approaches and evolutionary adapters to maintain high recognition performance (UAR, WAR, Macro-F1) while minimizing carbon footprint and parameter count.
 
 ## 🚀 Featured Software Projects
 
@@ -43,15 +33,8 @@ An automated scraping utility designed to extract and compile AI-related profess
 
 - **Languages**: Python, JavaScript, HTML/CSS, LaTeX
 - **Frameworks**: Flask, FastAPI, TensorFlow/Keras, PyTorch, Pandas
-- **AI/ML Domains**: Computer Vision, Emotion Recognition (FER), Local ML Inference, Algorithmic Fairness, Quantum-Inspired ML
+- **AI/ML Domains**: Generative AI, Computer Vision, Emotion Recognition (FER), Local ML Inference, Algorithmic Fairness
 - **Tools**: Git, FFmpeg, CUDA / GPU Computing
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaloopanda&show_icons=true&theme=radical" alt="Chaloopanda's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaloopanda&theme=radical" alt="Chaloopanda's GitHub Streak" />
-</div>
 
 ## 📫 Let's Connect!
 
