@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Sohan (Chaloopanda)! 👋</h1>
-  <p><strong>Full-Stack & Gen AI Developer | Researcher</strong></p>
+  <p><strong>Gen AI Developer | Researcher</strong></p>
 </div>
 
-Welcome to my GitHub profile! I'm a passionate developer and researcher focused on building high-performance applications, innovative ML models, and robust end-to-end systems. My work spans across full-stack development, local AI inference, generative AI, and cutting-edge machine learning research.
+Welcome to my GitHub profile! I'm a passionate developer and researcher focused on building high-performance applications, innovative ML models, and robust end-to-end systems. My work spans across local AI inference, generative AI, and cutting-edge machine learning research.
 
 ## 🔬 Research Projects & Papers
 
