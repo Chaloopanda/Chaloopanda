@@ -9,16 +9,19 @@ Welcome to my GitHub profile! I am an undergraduate student (B.Tech in Computer 
 
 ### 🛡️ Q-Sentry: A Semantic-Quantum Ensemble for Ethical Classification
 *Demographic Fairness Aware Machine Learning*
+- **Presented at**: [CIIR 2026](https://ciir.snuniv.ac.in/) | [[View Certificate]](https://drive.google.com/file/d/1agGEFZ90kWRVopU2f4SEuNWtkpRwPV_V/view?usp=sharing)
 - **Domain**: Algorithmic Fairness, Quantum-Inspired ML, Ethical AI
 - **Highlights**: A novel modular architecture (Scan-Find-Rectify) integrating Semantic Feature Extraction, Retrieval-Augmented Fairness (RAF), and Quantum-Inspired Tensor Train (TT) decomposition. Achieves near-zero demographic disparity and high utility on tabular datasets using only 674 trainable parameters, ideal for Edge-AI governance.
 
 ### 🖼️ Sentiment Analysis using Image
 *Facial Emotion Recognition using Vision Transformers*
+- **Presented at**: [CIIR 2026](https://ciir.snuniv.ac.in/) | [[View Certificate]](https://drive.google.com/file/d/1MCJsNPIrRy7gGv2t9rPEMozd5G26dDLy/view?usp=sharing)
 - **Domain**: Computer Vision, Affective Computing
 - **Highlights**: Designed a facial emotion recognition system using a CLIP-based Vision Transformer (ViT-L/14) fine-tuned on FER-2013 and AffectNet datasets. Integrated CBAM attention, progressive unfreezing, class-balancing, and Stochastic Weight Averaging, achieving 75.55% validation accuracy.
 
-### 📝 A Deep Model for Sentiment Analysis Classification Using Text (ICCTRDA-2025)
+### 📝 A Deep Model for Sentiment Analysis Classification Using Text
 *Text-Based Sentiment Classification*
+- **Presented at**: [ICCTRDA-2025](https://www.icctrda.com) | [[View Certificate]](https://drive.google.com/file/d/1dyxB2OTUYXrPZt-OvlJCk6cEcibEsnwt/view?usp=sharing)
 - **Domain**: Natural Language Processing, Sentiment Analysis
 - **Highlights**: Built a high-performance sentiment classification system on the IMDb 50K dataset using CNN, CNN-GRU, and attention mechanisms with Optuna-based hyperparameter optimization. Implemented weighted average ensemble learning to achieve ~90-91% accuracy, evaluated with ablation studies, PR-curve analysis, and t-SNE visualization.
 
